@@ -5,7 +5,7 @@
 I'm studying data science
 ### 🤞 Nice way to meet me
 <p>
-  <a href="https://chiauenlee.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+  <a href="https://chaieunlee.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
 </p>
 
 <center>Tech Skills</center>
