@@ -3,11 +3,19 @@
 
 ### Hi there 👋
 I'm studying data science
+### 🤞 Nice way to meet me
+<p>
+  <a href="https://chiauenlee.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+</p>
 
 <center>Tech Skills</center>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white">
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white">
+</p>
+
+
 
 <!--
 **ChaiEunLee/ChaiEunLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
