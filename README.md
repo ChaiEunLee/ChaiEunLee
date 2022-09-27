@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=4682b4&height=300&section=header&text=Chai%20eun%20Lee&fontColor=FFFFFF&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=4682b4&height=300&section=header&text=Chaieun%20Lee&fontColor=FFFFFF&fontSize=70)
 
 
 ### Hi there 👋
