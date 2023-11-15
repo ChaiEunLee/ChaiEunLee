@@ -1,14 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=4682b4&height=100&section=header&text=Chaieun%20Lee&fontColor=FFFFFF&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=rect&text=Chaieun%20Lee&fontSize=40&color=0:009900,100:4682b4&height=100&section=header&fontColor=FFFFFF)
 
 
-### Portfolio
-<p>
-  <a href="https://chaieunlee.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-</p>
+<p align="center"> center : </p>
 
-- Project from DataScience Project (2023.09 ~ 2023.12) : [Have Healthy Hair](https://github.com/p4dsG4/p4ds)
-- Porject from BKMS1 (2022.09 ~ 2022.12) : 서울시따릉이예측()
-- Lab
+### [Portfolio](https://github.com/ChaiEunLee/portfolio)
+- Project for Data Science (2023 FALL) : [Have Healthy Hair](https://github.com/p4dsG4/p4ds)   
+- Transfer Learning Project (2023 FALL) :   
+- Porject from BKMS1 (2022 FALL) :   
+- Lab Project   
+- To see in detail..  ➡️ <a href="https://chaieunlee.github.com/ChaiEunLee/portfolio" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+
 
 ### <center>Tech Skills</center>
 <p>
@@ -16,6 +17,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white">
+  <img src="https://img.shields.io/badge/anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
 </p>
 
 ### Career
