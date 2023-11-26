@@ -5,16 +5,17 @@
 ### [Portfolio](https://github.com/ChaiEunLee/portfolio)
 - Project for Data Science (2023 FALL) : [Have Healthy Hair](https://github.com/p4dsG4/p4ds)   
 - Transfer Learning Project (2023 FALL) :   
-- Project from Big Data and Knowledge Management Systems1 (2022 FALL) : [Forecast available bikes of Bikeshare System in Seoul](https://github.com/ChaiEunLee/lgbm-forecast-bikeshare)
+- BigData and Knowledge Management Systems1 (2022 FALL) : [Forecast available bikes of Bikeshare System in Seoul](https://github.com/ChaiEunLee/lgbm-forecast-bikeshare)
 - Lab Project   
 - To see in detail..  ➡️ <a href="https://github.com/ChaiEunLee/portfolio" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
 
 ### Career
-- Data Analyst, 2020.03~2022.08
+- [Data Analyst](https://github.com/ChaiEunLee/ssg), 2020.03~2022.08
 
 ### Education
-- Master (2024.08)
-- Bachelor (2020.02) 
+- M.S. in Data Science (2024.08)
+- B.S. in Statistics (2020.02)
+  - [Contest and Awards](https://github.com/ChaiEunLee/Bachelor)
 
 <p align="center"> <b> Tech Skills </b></p>
 <p align="center">
