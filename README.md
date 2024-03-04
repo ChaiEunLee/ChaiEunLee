@@ -5,16 +5,14 @@
 ### [Portfolio](https://github.com/ChaiEunLee/portfolio)
 - Project for Data Science (2023 FALL) : [Have Healthy Hair](https://github.com/p4dsG4/p4ds)   
 - Transfer Learning Project (2023 FALL) : [Applicability of synthetic data in medical field](https://github.com/ChaiEunLee/apply-synthetic-medMNIST)   
-- Lab Project   
-- Else
-  - BigData and Knowledge Management Systems1 (2022 FALL) : [Forecast available bikes of Bikeshare System in Seoul](https://github.com/ChaiEunLee/lgbm-forecast-bikeshare)
-  - [Contest and Awards](https://github.com/ChaiEunLee/Bachelor)
+- Research in Progress : *"Age-varying genetic risk of Breast Cancer"* 
+- BigData and Knowledge Management Systems1 (2022 FALL) : [Forecast available bikes of Bikeshare System in Seoul](https://github.com/ChaiEunLee/lgbm-forecast-bikeshare)
 
 ### Career
-- [Data Analyst](https://github.com/ChaiEunLee/ssg), 2020.03~2022.08
+- [Data Analyst](https://github.com/ChaiEunLee/ssg), SSG.COM, 2020.03~2022.08
 
 ### Education
-- M.S. in Data Science (2024.08)
+- M.S. in Data Science (Expected Graduation: 2024.08)
 - B.S. in Statistics (2020.02)
  
 
