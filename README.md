@@ -7,6 +7,7 @@
 - Transfer Learning Project (2023 FALL) : [Applicability of synthetic data in medical field](https://github.com/ChaiEunLee/apply-synthetic-medMNIST)   
 - Research in Progress : *"Age-varying genetic risk of Breast Cancer"* 
 - BigData and Knowledge Management Systems1 (2022 FALL) : [Forecast available bikes of Bikeshare System in Seoul](https://github.com/sehyunpark99/DDAREUNGI_Project)
+- Ambient AI BootCamp (2022 Summer) : [Smoking Detection by yolov5 with Coral](https://github.com/ChaiEunLee/yolov5-cigaratte-Face-detection)
 
 ### Career
 - [Data Analyst](https://github.com/ChaiEunLee/ssg), SSG.COM, 2020.03~2022.08
