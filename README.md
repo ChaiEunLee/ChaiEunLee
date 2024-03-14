@@ -2,7 +2,7 @@
 ### Introduction
 데이터 사이언티스트, 머신러닝 엔지니어
 
-### [Portfolio](https://github.com/ChaiEunLee/portfolio)
+### Portfolio
 - Project for Data Science (2023 FALL) : [Have Healthy Hair](https://github.com/p4dsG4/p4ds)   
 - Transfer Learning Project (2023 FALL) : [Applicability of synthetic data in medical field](https://github.com/ChaiEunLee/apply-synthetic-medMNIST)   
 - Research in Progress : *"Age-varying genetic risk of Breast Cancer"* 
