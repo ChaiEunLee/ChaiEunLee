@@ -5,7 +5,7 @@
 ### Portfolio
 - Project for Data Science (2023 FALL) : [Have Healthy Hair](https://github.com/p4dsG4/p4ds)   
 - Transfer Learning Project (2023 FALL) : [Applicability of synthetic data in medical field](https://github.com/ChaiEunLee/apply-synthetic-medMNIST)   
-- Research in Progress : *"Age-varying genetic risk of Breast Cancer"* 
+- Research in Progress : *"Age-varying geneticimpact on Breast Cancer"* 
 - BigData and Knowledge Management Systems1 (2022 FALL) : [Forecast available bikes of Bikeshare System in Seoul](https://github.com/sehyunpark99/DDAREUNGI_Project)
 - Ambient AI BootCamp (2022 Summer) : [Smoking Detection by yolov5 with Coral](https://github.com/ChaiEunLee/yolov5-cigaratte-Face-detection)
 
