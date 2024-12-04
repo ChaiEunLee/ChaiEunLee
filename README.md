@@ -13,7 +13,7 @@
 - [Data Analyst](https://github.com/ChaiEunLee/ssg), SSG.COM, 2020.03~2022.08
 
 ### Education
-- M.S. in Data Science (Expected Graduation: 2024.08)
+- M.S. in Data Science (2024.08)
 - B.S. in Statistics (2020.02)
  
 
